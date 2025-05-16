@@ -1,4 +1,4 @@
-# bmi-calculator-react
+# BMI Calculator
 My version of the bmi calculator app in react!
 
 ## How to Start
